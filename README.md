@@ -50,7 +50,10 @@ I created a level two support team.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The image above shows me configuring one of the agent roles. I created two seperate clients one with systems administrative permissions named Jane, and the other with supprt permissions named John. I also created two Clients one named Ken and the other Karen.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The image above shows me configuring one two agent roles and one of two client roles. The Agent named Jane was given Supreme Admin role shown above. I also created Ken and the other Karen and registered the accounts for use.
 </p>
 <br />
 <p>
