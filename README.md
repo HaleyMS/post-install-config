@@ -8,7 +8,7 @@ This page outlines the post-install configuration of my open-source help desk ti
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+https://i.imgur.com/uo8wJky.mp4
 
 <h2>Environments and Technologies Used</h2>
 
